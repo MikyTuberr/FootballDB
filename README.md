@@ -8,3 +8,5 @@
 
 ## RBD Schema
 ![rbd](https://github.com/MikyTuberr/FootballDB/assets/120327639/6a5cbb3f-173c-4652-823d-2f61c7fef99f)
+
+#### Realized with Microsoft SQL Server
